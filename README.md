@@ -1,17 +1,16 @@
+
 ### 🔹 Prime Numbers
-![Prime Result](assets/prime-result.png)
+![Prime Result](./Average%20Calculator%20HTTP%20Microservice/assets/prime-result.png)
 
 ---
 
 ### 🔹 Fibonacci Numbers
-![Fibonacci Result](assets/fibo-result.png)
+![Fibonacci Result](./Average%20Calculator%20HTTP%20Microservice/assets/fibo-result.png)
 
 ---
 
 ### 🔹 Even Numbers
-![Even Result](assets/even-result.png)
-
----
+![Even Result](./Average%20Calculator%20HTTP%20Microservice/assets/even-result.png)
 
 ---
 
